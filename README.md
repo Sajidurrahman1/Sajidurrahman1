@@ -61,13 +61,3 @@
 ## 📊 Github Status
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=https://github.com/Sajidurrahman1"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Sajidurrahman1&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Sajidurrahman1&layout=compact"><p>
-
-<p><img src="https://metrics.lecoq.io/https://github.com/Sajidurrahman1"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Sajidurrahman1"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=https://github.com/Sajidurrahman1&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
