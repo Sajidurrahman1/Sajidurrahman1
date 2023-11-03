@@ -1,63 +1,33 @@
-# Hi there 👋, My name is Sajidur Rahman
+### Hi there 👋, Myself is Sajidur Rahman 
+#### A Professional MERN Stack Web Application Developer
+![A Professional MERN Stack Web Application Developer](https://drive.google.com/file/d/1oUS_LgvKGn3lv8RAN9zUFBQ7vR98tPcj/view?usp=drivesdk)
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/" alt="my banner">
+Exceptionally creative and dependable MERN Stack Web Application Developer.  Experienced in building responsive user interfaces and web applications. Proficient in programming languages including Javascript, Typescript, Python, Node.js, Mysql and MongoDB.
+
+Skills: JAVASCRIPT / REACT / NEXT JS/ NODE JS / EXPRESS JS  / CSS / TAILWIND / MYSQL / MONGODB / PYTHON
+
+- 🔭 I’m currently working on ProjanmaIT Ltd.  
+- 🌱 I’m currently learning Machin Learning  
+- 👯 I’m looking to collaborate on Other Developers to know extra more things 
+- 🤔 I’m looking for help with Beginners to understand programming behaviour  
+- 💬 Ask me about Myself or my profession  
+- 📫 How to reach me: Only E-mail 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sajidurrahman1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sajidurrahman1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/20589138/mohammad-sajidur-rahman)  
 
-## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on TechnoBD Ltd.</p>
-<p>👯 I want to collaborate on Github</p>
-<p>🙏 I'm looking for help with Developer Team</p>
-<p>🌱 I'm currently learning Python, Machin Learning</p>
-<p>💬 Ask me about Anything</p>
-<p>I regularly write articles on <a href="https://github.com/Sajidurrahman1">Github</a></p>
-<p>All of my projects are available at <a href="https://stackoverflow.com/">stack overflow</a></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Sajidurrahman1)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 👥 Connect With Me
-<p>
-<a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@codewithforhad"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Sajidurrahman1)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Sajidurrahman1&show_icons=true&count_private=true)  
 
-## 🏆 GitHub Trophies
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Sajidurrahman1)  
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Sajidurrahman1">
-</p>
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Sajidurrahman1)  
 
-## 📊 Github Status
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Sajidurrahman1)  
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=https://github.com/Sajidurrahman1"><p>
+![Profile views](https://gpvc.arturio.dev/https://github.com/Sajidurrahman1)  
